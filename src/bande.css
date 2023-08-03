@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #0f273b;
+  width: 100vw;
+  height: 15vh;
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  height: 80%;
+}
