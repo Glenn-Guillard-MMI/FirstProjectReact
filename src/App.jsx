@@ -13,7 +13,7 @@ function App() {
         <label htmlFor="password">Mot de passe :</label>
         <input id="password" name="password" type="password" />
         <div id="btn">
-          <a href="sqdsq">Page inscription</a>
+          <a href="incription.html">Page inscription</a>
           <a>Se connecter</a>
         </div>
       </main>
